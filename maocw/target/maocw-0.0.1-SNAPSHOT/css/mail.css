@@ -1,0 +1,37 @@
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,address,code,em,img,strong,dl,dt,dd,ol,ul,li, fieldset,form,label,legend,table,tbody,tr,th,td,select,input{margin:0;padding:0;}
+img{border:none;}
+.m-auto{margin:0 auto;}
+.clear{clear:both;line-height:0;padding:0;margin:0;font-size:0; border:0;overflow:hidden;}
+.left{float:left;}
+.right{float:right;}
+.tl{text-align:left;}
+.tr{text-align:right;}
+.tc{text-align:center;}
+ul,li{list-style:none;}
+a:link,a:visited{ color:#000; text-decoration:none;}
+a:hover{ color:#FF0000; text-decoration:underline;}
+.blue-font{color:#21b6d3;}
+.yellow-font{color:#fb9401;}
+.white-font a{margin-right:5px;}
+.white-font a:link,.white-font a:visited{ color:#fff; text-decoration:none;}
+.white-font a:hover{ color:#fff; text-decoration:underline; }
+.st{font-family:"ËÎÌå";}
+
+
+body{background:url(../images/bg.gif);font-size:12px;color:#fff;line-height:24px;font-family:Arial, Helvetica, sans-serif,"ËÎÌå";}
+.container{width:720px;margin:0 auto;}
+.header{height:63px;background:url(../images/mail-header-bg.png) repeat-x;_background:url(../images/mail-header-bg.gif) repeat-x;}
+a.mail-logo{display:inline-block;background:url(../images/maillogo.png) no-repeat;_background:url(../images/maillogo.gif) no-repeat;width:177px;height:63px;border:0;margin:0 40px;float:left;}
+.movie-img{float:left;display:inline-block;line-height:63px;height:63px;_padding-top:25px;_height:38px;}
+.movie-img img{ vertical-align:middle;margin-right:5px;margin-top:-1px;_margin-top:-1px; }
+.content{border-bottom:1px #000 solid;}
+.content .container,.footer .container{padding:15px 50px;width:620px;}
+.menu .container{width:640px;}
+.year,.time{display:inline-block;margin-right:18px;}
+.menu-info{background:url(../images/mail-info.png) repeat-x;_background:url(../images/mail-info.gif) repeat-x;height:49px;padding:7px 20px 0 20px;line-height:21px;border-left:1px #464945 solid;border-right:1px #22201c solid;border-bottom:1px #22201c solid;}
+.menu{border-bottom:4px #ea6b03 solid;padding:0 40px;margin-top:15px;font-family:"arial";}
+ul.jilu-menu li{float:left;height:35px;line-height:35px;font-size:17px;font-family:"Î¢ÈíÑÅºÚ";}
+ul.jilu-menu li.xfjl{display:inline-block;width:104px;background:url(../images/post.gif) no-repeat;padding-left:55px;color:#2c2823;margin-right:30px;font-weight:bold;font-family:"Î¢ÈíÑÅºÚ";}
+.menu-info{margin:0 40px;}
+.menu-info p{ text-indent:2em;}
+.footer{border-top:1px #49443d solid;}

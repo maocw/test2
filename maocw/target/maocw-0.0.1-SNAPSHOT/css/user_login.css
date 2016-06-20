@@ -1,0 +1,44 @@
+/* CSS Document */
+/*初始化*/
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,address,code,em,img,strong,dl,dt,dd,ol,ul,li, fieldset,form,label,legend,table,tbody,tr,th,td,select,input{margin:0;padding:0;}
+body{ background:url(../images/login/background.jpg) no-repeat;}
+
+
+img{border:none;}
+.m-auto{margin:0 auto;}
+.clear{clear:both;line-height:0;padding:0;margin:0;font-size:0; border:0;overflow:hidden;}
+.left{float:left;}
+.right{float:right;}
+.tl{text-align:left;}
+.tr{text-align:right;}
+.tc{text-align:center;}
+ul,li{list-style:none;}
+a:link,a:visited{ color:#000; text-decoration:none;}
+a:hover{ color:#FF0000; text-decoration:underline;}
+a:focus { outline:none;}
+
+
+.wrapper{ margin:80px auto 0 auto;width:571px;  text-align:center;}
+.logo{ display:inline-block;width:349px;height:154px;}
+.content{ display:inline-block;width:571px;height:357px; background:url(../images/login/login-bg.png) no-repeat;margin:0 auto 20px auto;}
+.login{padding-top:105px;width:315px;margin-left:130px!important;*margin-left:0!important;}
+.login form div{text-align:left;}
+.user1,.user2,.password1,.password2,.yzm1,.yzm2,.btn{display:inline-block;border:0; overflow:hidden; }
+.user1,.user2,.password1,.password2,.yzm1,.yzm2{ text-align:left; height:46px;line-height:46px;padding:0 35px 0 12px;margin-bottom:10px;font-size:16px;font-family:Arial, Helvetica, sans-serif,"宋体";}
+.btn{ width:315px; }
+.user1,.user2,.password1,.password2{width:268px;}
+.yzm1,.yzm2{ width:191px; }
+.btn{ background:url(../images/login/login-input.png) 0 -276px; color:#fff;font-size:18px;font-weight:bold; height:48px;padding:3px 0 8px 0!important;*padding:5px 0 5px 0!important;text-align:center;cursor:pointer; font-family:Arial, Helvetica, sans-serif,"微软雅黑"; }
+.user1{ background:url(../images/login/login-input.png) left top no-repeat; color:#333;}
+.user2{ background:url(../images/login/login-input.png) 0 -46px no-repeat; color:#347ec4;}
+.password1{ background:url(../images/login/login-input.png) 0 -92px no-repeat;  color:#333;}
+.password2{ background:url(../images/login/login-input.png) 0 -138px no-repeat; color:#347ec4;}
+.yzm1{ background:url(../images/login/login-input.png) 0 -184px no-repeat; color:#333;}
+.yzm2{ background:url(../images/login/login-input.png) 0 -230px no-repeat;color:#347ec4;}
+.yzm-img{display:inline-block;float:right; vertical-align:middle;width:65px;height:30px;margin-top:9px;}
+
+.footer{ font-size:12px;color:#85898d;font-family:Arial, Helvetica, sans-serif,"宋体"; }
+
+
+
+
